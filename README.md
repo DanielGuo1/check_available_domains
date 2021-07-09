@@ -4,13 +4,13 @@
 [![Coinmarketcap](https://img.shields.io/badge/API-Coinmarketcap-green.svg?style=flat-square&logo=Coinmarketcap&logoColor=white)](https://coinmarketcap.com/api/) 
 
 
-<h1 align="center">Cheapest gas station</h1>
+<h1 align="center">Check for available domains</h1>
 <p align="center">
-  <a href="![image](https://github.com/DanielGuo1/cheapest_gasstation/blob/main/images/gas_station.png)">
-    <img src="https://github.com/DanielGuo1/cheapest_gasstation/blob/main/images/gas_station.png" alt="Logo" width="220" height="220">
+  <a href="![image](https://github.com/DanielGuo1/check_available_domains/blob/main/title.jpeg)">
+    <img src="https://github.com/DanielGuo1/check_available_domains/blob/main/title.jpeg" alt="Logo" width="520" height="320">
   </a>
   <p align="center">
-    Find the cheapest gas station in your area
+    Find domains available for purchase
   </p>
 </p>
 
